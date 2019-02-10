@@ -39,3 +39,8 @@ You need to use mouse to draw bounding boxes for head and tail of the car. We us
 
 ### Car Control and Serial Commmunication
 
+We calculate the centers of the car's head and tail, then we can get its direction. Based on the corners we detected, we can determine whether the car should go forward or backward, turn left or turn right. After knowing how the car should move, the command controlling the car is sent to the car by serial communication.
+
+Finally, the car reaches the destination.
+
+![6](./img/6.png) ![7](./img/7.png)
