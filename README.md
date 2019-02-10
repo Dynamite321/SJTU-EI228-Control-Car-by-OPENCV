@@ -1,1 +1,1 @@
-# control car by OPENCV
+# SJTU EI228: Control Car by OPENCV
