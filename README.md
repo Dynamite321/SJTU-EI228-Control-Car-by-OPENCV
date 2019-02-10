@@ -13,7 +13,7 @@ After opening the camera, we need to adjust the angle of the camera so that we c
 
 ### Perspective Transformation
 
-Click the four vertices of the board and the program will do perspective Transformation automatically.
+Click the four vertices of the board and the program will do perspective transformation automatically.
 
 ![2](./img/2.png)
 
