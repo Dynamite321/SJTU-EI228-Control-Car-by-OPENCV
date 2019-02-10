@@ -25,7 +25,7 @@ You can use the trackbar to choose the threshold by yourself. Experimentally，i
 
 ### Image Thinning & Corner Detection
 
-Thin the path in the binary image to the width of one pixel.
+Thin the path in the binary image to the width of one pixel. Then we use corner detection to represent the path.
 
 ![4](./img/4.png)
 
