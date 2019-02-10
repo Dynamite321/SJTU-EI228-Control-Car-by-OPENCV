@@ -9,7 +9,7 @@ For more details **in Chinese**, please refer to [http://eelab.sjtu.edu.cn/kc/20
 ### Adjust Camera
 
 After opening the camera, we need to adjust the angle of the camera so that we can see the whole board on the screen.
-![1][./img/1.png]
+![1](./img/1.png)
 
 ### Perspective Transform
 
