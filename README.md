@@ -25,6 +25,10 @@ You can use the trackbar to choose the threshold by yourself. Experimentally，i
 
 ### Image Thinning
 
+Thin the path in the binary image to the width of one pixel.
+
+![4](./img/4.png)
+
 ### Corner Detection
 
 ### Car Recognition with Camshift
