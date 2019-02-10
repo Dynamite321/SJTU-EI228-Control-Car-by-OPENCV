@@ -33,7 +33,7 @@ Thin the path in the binary image to the width of one pixel.
 
 We paste a piece of red paper and a piece of green paper to the head and the tail of the car. It is trivial to recognize its head and tail by recognizing red and green paper in the frame through RGB value, and this method is very unstable when the environment changes. Therefore, we choose **Camshift** which is relatively stable.
 
-You need to use mouse to draw bounding boxes for head and tail of the car.
+You need to use mouse to draw bounding boxes for head and tail of the car. We use red and yellow rectangles to mark bounding boxes.
 
 ![5](./img/5.png)
 
